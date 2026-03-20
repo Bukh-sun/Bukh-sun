@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Django, Djando Rest API, Docker
-💬 Ask me about how to not give up
-📫 How to reach me: telegram @Vicious_sunny
-⚡ Fun fact: I like smell of fried onions
+## 🌱 I’m currently learning Django, Djando Rest API, Docker
+## 💬 Ask me about how to not give up
+## 📫 How to reach me: telegram @Vicious_sunny
+## ⚡ Fun fact: I like smell of fried onions
